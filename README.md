@@ -1,2 +1,2 @@
-# ML-stuff
+# jupyter-notebooks-ML
 Linear Regression Models
